@@ -1,13 +1,11 @@
 # gome-graithe
-Digital Humanities Initiative, University of Illinois at Chicago
-Virtual DH Workshop
-##############################
+Created by Jonathan Hicks, University of Memphis, for the Virtual DH Workshop at the Digital Humanities Initiative, University of Illinois at Chicago.
+
 This workshop will introduce you to common practices and methods for preparing text for stylometric analysis in author attribution studies.
 While there are many beneifts to using XML encoded files, only .txt files will be used. 
 The reason for this is two-fold: 
 First, in your own research projects you may not have access to xml-encoded texts, nor the time or expertise to create xml-encoded files; 
-Second, this workshop intends to introduce the participant to commonly used digital humanities tools.
-##############################
+Second, this workshop intends to introduce the participant to commonly used digital humanities tools and the methods of text preparation.
 
 Installation Guide and Tools
 ------------------------------
